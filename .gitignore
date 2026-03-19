@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.wav
+*.onnx
+*.json
+piper_voices/
+.env
